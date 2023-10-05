@@ -1,0 +1,15 @@
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/bin/Debug/net7.0/DAYONE
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/bin/Debug/net7.0/DAYONE.deps.json
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/bin/Debug/net7.0/DAYONE.runtimeconfig.json
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/bin/Debug/net7.0/DAYONE.dll
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/bin/Debug/net7.0/DAYONE.pdb
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.csproj.AssemblyReference.cache
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.GeneratedMSBuildEditorConfig.editorconfig
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.AssemblyInfoInputs.cache
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.AssemblyInfo.cs
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.csproj.CoreCompileInputs.cache
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.dll
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/refint/DAYONE.dll
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.pdb
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/DAYONE.genruntimeconfig.cache
+/home/benji/Desktop/SAmple/DAYONE/DAYONE/obj/Debug/net7.0/ref/DAYONE.dll
